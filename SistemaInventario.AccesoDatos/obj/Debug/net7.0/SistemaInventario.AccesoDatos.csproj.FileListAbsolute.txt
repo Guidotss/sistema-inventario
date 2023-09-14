@@ -1,0 +1,17 @@
+C:\Users\guido\OneDrive\Escritorio\sistema-inventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.AccesoDatos.deps.json
+C:\Users\guido\OneDrive\Escritorio\sistema-inventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.AccesoDatos.dll
+C:\Users\guido\OneDrive\Escritorio\sistema-inventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.AccesoDatos.pdb
+C:\Users\guido\OneDrive\Escritorio\sistema-inventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.Modelos.dll
+C:\Users\guido\OneDrive\Escritorio\sistema-inventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.Utilidades.dll
+C:\Users\guido\OneDrive\Escritorio\sistema-inventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.Modelos.pdb
+C:\Users\guido\OneDrive\Escritorio\sistema-inventario\SistemaInventario.AccesoDatos\bin\Debug\net7.0\SistemaInventario.Utilidades.pdb
+C:\Users\guido\OneDrive\Escritorio\sistema-inventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\guido\OneDrive\Escritorio\sistema-inventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guido\OneDrive\Escritorio\sistema-inventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\guido\OneDrive\Escritorio\sistema-inventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.AssemblyInfo.cs
+C:\Users\guido\OneDrive\Escritorio\sistema-inventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\guido\OneDrive\Escritorio\sistema-inventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.csproj.CopyComplete
+C:\Users\guido\OneDrive\Escritorio\sistema-inventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.dll
+C:\Users\guido\OneDrive\Escritorio\sistema-inventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\refint\SistemaInventario.AccesoDatos.dll
+C:\Users\guido\OneDrive\Escritorio\sistema-inventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.pdb
+C:\Users\guido\OneDrive\Escritorio\sistema-inventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\ref\SistemaInventario.AccesoDatos.dll
