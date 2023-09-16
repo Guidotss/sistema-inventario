@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\guido\OneDrive\Escritorio\sistema-inventario\SistemaInventario
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/guido/OneDrive/Escritorio/sistema-inventario/SistemaInventario/Areas/Admin/Views/Bodega/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQm9kZWdhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guido/OneDrive/Escritorio/sistema-inventario/SistemaInventario/Areas/Admin/Views/Bodega/Upsert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQm9kZWdhXFVwc2VydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/guido/OneDrive/Escritorio/sistema-inventario/SistemaInventario/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
