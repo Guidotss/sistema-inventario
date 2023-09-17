@@ -51,3 +51,28 @@ function loadDataTable() {
         ]
     }); 
 }
+
+function Delete(url) {
+    swal({
+        title: "Esta seguro de Eliminar la Bodega?",
+        text: "Este registro no se podra recuperar",
+        icon: "warning",
+        buttons: true,
+        dangerMode: true
+    }).then((borrar) => {
+        if (borrar) {
+            $.ajax({
+                type: "DELETE",
+                url: url,
+                success: (data) => {
+                    if (data.success) {
+                        toastr.success(data.message);
+                        dataTable.ajax.reload();
+                    }else {
+                        toastr.error(data.message); 
+                    }
+                }
+            })
+        }
+    })
+}
